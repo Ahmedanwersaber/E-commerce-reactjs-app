@@ -1,0 +1,26 @@
+.our-product{
+    display: inline-block;
+    margin: 0;
+    font-size: 50px;
+    background-image: url(
+'https://media.geeksforgeeks.org/wp-content/uploads/20231218224644/w.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+.card{
+    width: 200px;
+    height: 300px;
+}
+.card-text{
+  
+    width: 400px;
+    height: 100px;
+    /* overflow: hidden; */
+    text-align: center;
+   
+}

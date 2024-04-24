@@ -1,0 +1,12 @@
+.height-300{
+    height: 800px;
+    width: auto;
+}
+
+@media (max-width: 575.98px) { 
+
+    .height-300 {
+        height: 510px;
+  }
+
+ }

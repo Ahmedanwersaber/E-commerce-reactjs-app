@@ -1,0 +1,17 @@
+#root {
+  padding: 0;
+  text-align: center;
+ 
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing:antialised;
+
+}
+
+.logo {
+  height: 30px;
+  margin-bottom: 8px;
+  font-weight: bold;
+  text-shadow: 2px;
+  
+}
+
